@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/testpipe.dir/testpipe.cpp.o -o testpipe  -Wl,-rpath,/home/student/projects/snode.c/build/net:/home/student/projects/snode.c/build/utils:/home/student/projects/snode.c/build/log: ../net/libnet.so.1 ../utils/libutils.so.1 -ldl ../log/liblogger.so.1 -lssl -lcrypto -lbluetooth 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../utils/Timeval.h
+sys/time.h
+-
+
+/home/student/projects/snode.c/utils/Timeval.cpp
+utils/Timeval.h
+/home/student/projects/snode.c/utils/utils/Timeval.h
+sys/time.h
+-
+
+/home/student/projects/snode.c/utils/instrumentation.cpp
+cstdio
+-
+dlfcn.h
+-
+

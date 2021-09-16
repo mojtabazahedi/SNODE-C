@@ -1,0 +1,517 @@
+[
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/AcceptEventReceiver.cpp.o -c /home/student/projects/snode.c/net/AcceptEventReceiver.cpp",
+  "file": "/home/student/projects/snode.c/net/AcceptEventReceiver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/ConnectEventReceiver.cpp.o -c /home/student/projects/snode.c/net/ConnectEventReceiver.cpp",
+  "file": "/home/student/projects/snode.c/net/ConnectEventReceiver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/Descriptor.cpp.o -c /home/student/projects/snode.c/net/Descriptor.cpp",
+  "file": "/home/student/projects/snode.c/net/Descriptor.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/DescriptorEventDispatcher.cpp.o -c /home/student/projects/snode.c/net/DescriptorEventDispatcher.cpp",
+  "file": "/home/student/projects/snode.c/net/DescriptorEventDispatcher.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/DescriptorEventReceiver.cpp.o -c /home/student/projects/snode.c/net/DescriptorEventReceiver.cpp",
+  "file": "/home/student/projects/snode.c/net/DescriptorEventReceiver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/EventLoop.cpp.o -c /home/student/projects/snode.c/net/EventLoop.cpp",
+  "file": "/home/student/projects/snode.c/net/EventLoop.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/FdSet.cpp.o -c /home/student/projects/snode.c/net/FdSet.cpp",
+  "file": "/home/student/projects/snode.c/net/FdSet.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/ExceptionalConditionEventReceiver.cpp.o -c /home/student/projects/snode.c/net/ExceptionalConditionEventReceiver.cpp",
+  "file": "/home/student/projects/snode.c/net/ExceptionalConditionEventReceiver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/ReadEventReceiver.cpp.o -c /home/student/projects/snode.c/net/ReadEventReceiver.cpp",
+  "file": "/home/student/projects/snode.c/net/ReadEventReceiver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/SNodeC.cpp.o -c /home/student/projects/snode.c/net/SNodeC.cpp",
+  "file": "/home/student/projects/snode.c/net/SNodeC.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/TimerEventDispatcher.cpp.o -c /home/student/projects/snode.c/net/TimerEventDispatcher.cpp",
+  "file": "/home/student/projects/snode.c/net/TimerEventDispatcher.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/WriteEventReceiver.cpp.o -c /home/student/projects/snode.c/net/WriteEventReceiver.cpp",
+  "file": "/home/student/projects/snode.c/net/WriteEventReceiver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/file/File.cpp.o -c /home/student/projects/snode.c/net/file/File.cpp",
+  "file": "/home/student/projects/snode.c/net/file/File.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/file/FileReader.cpp.o -c /home/student/projects/snode.c/net/file/FileReader.cpp",
+  "file": "/home/student/projects/snode.c/net/file/FileReader.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/pipe/Source.cpp.o -c /home/student/projects/snode.c/net/pipe/Source.cpp",
+  "file": "/home/student/projects/snode.c/net/pipe/Source.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/pipe/Sink.cpp.o -c /home/student/projects/snode.c/net/pipe/Sink.cpp",
+  "file": "/home/student/projects/snode.c/net/pipe/Sink.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/pipe/Pipe.cpp.o -c /home/student/projects/snode.c/net/pipe/Pipe.cpp",
+  "file": "/home/student/projects/snode.c/net/pipe/Pipe.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/pipe/PipeSink.cpp.o -c /home/student/projects/snode.c/net/pipe/PipeSink.cpp",
+  "file": "/home/student/projects/snode.c/net/pipe/PipeSink.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/pipe/PipeSource.cpp.o -c /home/student/projects/snode.c/net/pipe/PipeSource.cpp",
+  "file": "/home/student/projects/snode.c/net/pipe/PipeSource.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/bluetooth/address/L2CapAddress.cpp.o -c /home/student/projects/snode.c/net/socket/bluetooth/address/L2CapAddress.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/bluetooth/address/L2CapAddress.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/bluetooth/address/RfCommAddress.cpp.o -c /home/student/projects/snode.c/net/socket/bluetooth/address/RfCommAddress.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/bluetooth/address/RfCommAddress.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/bluetooth/l2cap/Socket.cpp.o -c /home/student/projects/snode.c/net/socket/bluetooth/l2cap/Socket.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/bluetooth/l2cap/Socket.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/bluetooth/rfcomm/Socket.cpp.o -c /home/student/projects/snode.c/net/socket/bluetooth/rfcomm/Socket.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/bluetooth/rfcomm/Socket.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/ip/address/ipv4/InetAddress.cpp.o -c /home/student/projects/snode.c/net/socket/ip/address/ipv4/InetAddress.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/ip/address/ipv4/InetAddress.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/ip/address/ipv6/InetAddress.cpp.o -c /home/student/projects/snode.c/net/socket/ip/address/ipv6/InetAddress.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/ip/address/ipv6/InetAddress.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/ip/tcp/ipv4/Socket.cpp.o -c /home/student/projects/snode.c/net/socket/ip/tcp/ipv4/Socket.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/ip/tcp/ipv4/Socket.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/ip/tcp/ipv6/Socket.cpp.o -c /home/student/projects/snode.c/net/socket/ip/tcp/ipv6/Socket.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/ip/tcp/ipv6/Socket.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/stream/SocketConnection.cpp.o -c /home/student/projects/snode.c/net/socket/stream/SocketConnection.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/stream/SocketConnection.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/stream/SocketContext.cpp.o -c /home/student/projects/snode.c/net/socket/stream/SocketContext.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/stream/SocketContext.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/stream/tls/ssl_utils.cpp.o -c /home/student/projects/snode.c/net/socket/stream/tls/ssl_utils.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/stream/tls/ssl_utils.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/socket/stream/tls/TLSHandshake.cpp.o -c /home/student/projects/snode.c/net/socket/stream/tls/TLSHandshake.cpp",
+  "file": "/home/student/projects/snode.c/net/socket/stream/tls/TLSHandshake.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/system/netdb.cpp.o -c /home/student/projects/snode.c/net/system/netdb.cpp",
+  "file": "/home/student/projects/snode.c/net/system/netdb.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/system/select.cpp.o -c /home/student/projects/snode.c/net/system/select.cpp",
+  "file": "/home/student/projects/snode.c/net/system/select.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/system/signal.cpp.o -c /home/student/projects/snode.c/net/system/signal.cpp",
+  "file": "/home/student/projects/snode.c/net/system/signal.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/system/socket.cpp.o -c /home/student/projects/snode.c/net/system/socket.cpp",
+  "file": "/home/student/projects/snode.c/net/system/socket.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/system/ssl.cpp.o -c /home/student/projects/snode.c/net/system/ssl.cpp",
+  "file": "/home/student/projects/snode.c/net/system/ssl.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/system/time.cpp.o -c /home/student/projects/snode.c/net/system/time.cpp",
+  "file": "/home/student/projects/snode.c/net/system/time.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/system/unistd.cpp.o -c /home/student/projects/snode.c/net/system/unistd.cpp",
+  "file": "/home/student/projects/snode.c/net/system/unistd.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/net",
+  "command": "/usr/bin/c++ -Dnet_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 --warn-all -std=c++2a -o CMakeFiles/net.dir/timer/Timer.cpp.o -c /home/student/projects/snode.c/net/timer/Timer.cpp",
+  "file": "/home/student/projects/snode.c/net/timer/Timer.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/Parser.cpp.o -c /home/student/projects/snode.c/web/http/Parser.cpp",
+  "file": "/home/student/projects/snode.c/web/http/Parser.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/StatusCodes.cpp.o -c /home/student/projects/snode.c/web/http/StatusCodes.cpp",
+  "file": "/home/student/projects/snode.c/web/http/StatusCodes.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/MimeTypes.cpp.o -c /home/student/projects/snode.c/web/http/MimeTypes.cpp",
+  "file": "/home/student/projects/snode.c/web/http/MimeTypes.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/http_utils.cpp.o -c /home/student/projects/snode.c/web/http/http_utils.cpp",
+  "file": "/home/student/projects/snode.c/web/http/http_utils.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/client/ResponseParser.cpp.o -c /home/student/projects/snode.c/web/http/client/ResponseParser.cpp",
+  "file": "/home/student/projects/snode.c/web/http/client/ResponseParser.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/client/Request.cpp.o -c /home/student/projects/snode.c/web/http/client/Request.cpp",
+  "file": "/home/student/projects/snode.c/web/http/client/Request.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/client/Response.cpp.o -c /home/student/projects/snode.c/web/http/client/Response.cpp",
+  "file": "/home/student/projects/snode.c/web/http/client/Response.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/client/SocketContextUpgradeFactorySelector.cpp.o -c /home/student/projects/snode.c/web/http/client/SocketContextUpgradeFactorySelector.cpp",
+  "file": "/home/student/projects/snode.c/web/http/client/SocketContextUpgradeFactorySelector.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/server/RequestParser.cpp.o -c /home/student/projects/snode.c/web/http/server/RequestParser.cpp",
+  "file": "/home/student/projects/snode.c/web/http/server/RequestParser.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/server/Request.cpp.o -c /home/student/projects/snode.c/web/http/server/Request.cpp",
+  "file": "/home/student/projects/snode.c/web/http/server/Request.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/server/Response.cpp.o -c /home/student/projects/snode.c/web/http/server/Response.cpp",
+  "file": "/home/student/projects/snode.c/web/http/server/Response.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/server/SocketContextUpgradeFactory.cpp.o -c /home/student/projects/snode.c/web/http/server/SocketContextUpgradeFactory.cpp",
+  "file": "/home/student/projects/snode.c/web/http/server/SocketContextUpgradeFactory.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/http",
+  "command": "/usr/bin/c++ -Dweb_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/web.dir/server/SocketContextUpgradeFactorySelector.cpp.o -c /home/student/projects/snode.c/web/http/server/SocketContextUpgradeFactorySelector.cpp",
+  "file": "/home/student/projects/snode.c/web/http/server/SocketContextUpgradeFactorySelector.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/Receiver.cpp.o -c /home/student/projects/snode.c/web/websocket/Receiver.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/Receiver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/SocketContext.cpp.o -c /home/student/projects/snode.c/web/websocket/SocketContext.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/SocketContext.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/SubProtocol.cpp.o -c /home/student/projects/snode.c/web/websocket/SubProtocol.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/SubProtocol.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/SubProtocolFactorySelector.cpp.o -c /home/student/projects/snode.c/web/websocket/SubProtocolFactorySelector.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/SubProtocolFactorySelector.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/Transmitter.cpp.o -c /home/student/projects/snode.c/web/websocket/Transmitter.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/Transmitter.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/ws_utils.cpp.o -c /home/student/projects/snode.c/web/websocket/ws_utils.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/ws_utils.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/client/SocketContext.cpp.o -c /home/student/projects/snode.c/web/websocket/client/SocketContext.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/client/SocketContext.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/client/SubProtocol.cpp.o -c /home/student/projects/snode.c/web/websocket/client/SubProtocol.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/client/SubProtocol.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/client/SubProtocolSelector.cpp.o -c /home/student/projects/snode.c/web/websocket/client/SubProtocolSelector.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/client/SubProtocolSelector.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/server/SocketContext.cpp.o -c /home/student/projects/snode.c/web/websocket/server/SocketContext.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/server/SocketContext.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/server/SocketContextUpgradeFactory.cpp.o -c /home/student/projects/snode.c/web/websocket/server/SocketContextUpgradeFactory.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/server/SocketContextUpgradeFactory.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/server/SubProtocol.cpp.o -c /home/student/projects/snode.c/web/websocket/server/SubProtocol.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/server/SubProtocol.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/server/SubProtocolFactory.cpp.o -c /home/student/projects/snode.c/web/websocket/server/SubProtocolFactory.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/server/SubProtocolFactory.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket",
+  "command": "/usr/bin/c++ -Dwebsocket_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocket.dir/server/SubProtocolFactorySelector.cpp.o -c /home/student/projects/snode.c/web/websocket/server/SubProtocolFactorySelector.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/server/SubProtocolFactorySelector.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket/subprotocol/server/echo",
+  "command": "/usr/bin/c++ -Decho_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/echo.dir/Echo.cpp.o -c /home/student/projects/snode.c/web/websocket/subprotocol/server/echo/Echo.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/subprotocol/server/echo/Echo.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/web/websocket/subprotocol/server/echo",
+  "command": "/usr/bin/c++ -Decho_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/websocket -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/echo.dir/EchoFactory.cpp.o -c /home/student/projects/snode.c/web/websocket/subprotocol/server/echo/EchoFactory.cpp",
+  "file": "/home/student/projects/snode.c/web/websocket/subprotocol/server/echo/EchoFactory.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/express",
+  "command": "/usr/bin/c++ -DJSON_USE_IMPLICIT_CONVERSIONS=1 -Dexpress_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/express.dir/Response.cpp.o -c /home/student/projects/snode.c/express/Response.cpp",
+  "file": "/home/student/projects/snode.c/express/Response.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/express",
+  "command": "/usr/bin/c++ -DJSON_USE_IMPLICIT_CONVERSIONS=1 -Dexpress_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/express.dir/Request.cpp.o -c /home/student/projects/snode.c/express/Request.cpp",
+  "file": "/home/student/projects/snode.c/express/Request.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/express",
+  "command": "/usr/bin/c++ -DJSON_USE_IMPLICIT_CONVERSIONS=1 -Dexpress_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/express.dir/Router.cpp.o -c /home/student/projects/snode.c/express/Router.cpp",
+  "file": "/home/student/projects/snode.c/express/Router.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/express",
+  "command": "/usr/bin/c++ -DJSON_USE_IMPLICIT_CONVERSIONS=1 -Dexpress_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/express.dir/WebApp.cpp.o -c /home/student/projects/snode.c/express/WebApp.cpp",
+  "file": "/home/student/projects/snode.c/express/WebApp.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/express",
+  "command": "/usr/bin/c++ -DJSON_USE_IMPLICIT_CONVERSIONS=1 -Dexpress_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/express.dir/middleware/JsonMiddleware.cpp.o -c /home/student/projects/snode.c/express/middleware/JsonMiddleware.cpp",
+  "file": "/home/student/projects/snode.c/express/middleware/JsonMiddleware.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/express",
+  "command": "/usr/bin/c++ -DJSON_USE_IMPLICIT_CONVERSIONS=1 -Dexpress_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/express.dir/middleware/StaticMiddleware.cpp.o -c /home/student/projects/snode.c/express/middleware/StaticMiddleware.cpp",
+  "file": "/home/student/projects/snode.c/express/middleware/StaticMiddleware.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/express",
+  "command": "/usr/bin/c++ -DJSON_USE_IMPLICIT_CONVERSIONS=1 -Dexpress_EXPORTS -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/express.dir/middleware/VHost.cpp.o -c /home/student/projects/snode.c/express/middleware/VHost.cpp",
+  "file": "/home/student/projects/snode.c/express/middleware/VHost.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/log",
+  "command": "/usr/bin/c++ -DELPP_CUSTOM_COUT=std::cerr -DELPP_NO_DEFAULT_LOG_FILE -Dlogger_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/logger.dir/Logger.cpp.o -c /home/student/projects/snode.c/log/Logger.cpp",
+  "file": "/home/student/projects/snode.c/log/Logger.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/log",
+  "command": "/usr/bin/c++ -DELPP_CUSTOM_COUT=std::cerr -DELPP_NO_DEFAULT_LOG_FILE -Dlogger_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -Wno-unused-parameter -Wno-conversion -Wno-range-loop-construct -o CMakeFiles/logger.dir/usr/include/easylogging++.cc.o -c /usr/include/easylogging++.cc",
+  "file": "/usr/include/easylogging++.cc"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/utils",
+  "command": "/usr/bin/c++ -Dutils_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/utils.dir/Timeval.cpp.o -c /home/student/projects/snode.c/utils/Timeval.cpp",
+  "file": "/home/student/projects/snode.c/utils/Timeval.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/utils",
+  "command": "/usr/bin/c++ -Dutils_EXPORTS -I/home/student/projects/snode.c -fPIC -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/utils.dir/instrumentation.cpp.o -c /home/student/projects/snode.c/utils/instrumentation.cpp",
+  "file": "/home/student/projects/snode.c/utils/instrumentation.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/client6clientcert.dir/client6clientcert.cpp.o -c /home/student/projects/snode.c/apps/client6clientcert.cpp",
+  "file": "/home/student/projects/snode.c/apps/client6clientcert.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/websocketparser.dir/websocketparser.cpp.o -c /home/student/projects/snode.c/apps/websocketparser.cpp",
+  "file": "/home/student/projects/snode.c/apps/websocketparser.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/snode.c.dir/main.cpp.o -c /home/student/projects/snode.c/apps/main.cpp",
+  "file": "/home/student/projects/snode.c/apps/main.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/btlowleveltlsserver.dir/btlowleveltlsserver.cpp.o -c /home/student/projects/snode.c/apps/btlowleveltlsserver.cpp",
+  "file": "/home/student/projects/snode.c/apps/btlowleveltlsserver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/client4.dir/client4.cpp.o -c /home/student/projects/snode.c/apps/client4.cpp",
+  "file": "/home/student/projects/snode.c/apps/client4.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/testparser.dir/testparsers.cpp.o -c /home/student/projects/snode.c/apps/testparsers.cpp",
+  "file": "/home/student/projects/snode.c/apps/testparsers.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/client6.dir/client6.cpp.o -c /home/student/projects/snode.c/apps/client6.cpp",
+  "file": "/home/student/projects/snode.c/apps/client6.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/jsonserver.dir/jsonserver.cpp.o -c /home/student/projects/snode.c/apps/jsonserver.cpp",
+  "file": "/home/student/projects/snode.c/apps/jsonserver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/vhostserver.dir/vhostserver.cpp.o -c /home/student/projects/snode.c/apps/vhostserver.cpp",
+  "file": "/home/student/projects/snode.c/apps/vhostserver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/verysimpleserver.dir/verysimpleserver.cpp.o -c /home/student/projects/snode.c/apps/verysimpleserver.cpp",
+  "file": "/home/student/projects/snode.c/apps/verysimpleserver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/simpleserver6clientcert.dir/simpleserver6clientcert.cpp.o -c /home/student/projects/snode.c/apps/simpleserver6clientcert.cpp",
+  "file": "/home/student/projects/snode.c/apps/simpleserver6clientcert.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/lowlevelclient.dir/lowlevelclient.cpp.o -c /home/student/projects/snode.c/apps/lowlevelclient.cpp",
+  "file": "/home/student/projects/snode.c/apps/lowlevelclient.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/jsonclient.dir/jsonclient.cpp.o -c /home/student/projects/snode.c/apps/jsonclient.cpp",
+  "file": "/home/student/projects/snode.c/apps/jsonclient.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/simpleserver6.dir/simpleserver6.cpp.o -c /home/student/projects/snode.c/apps/simpleserver6.cpp",
+  "file": "/home/student/projects/snode.c/apps/simpleserver6.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/simpleserver.dir/simpleserver.cpp.o -c /home/student/projects/snode.c/apps/simpleserver.cpp",
+  "file": "/home/student/projects/snode.c/apps/simpleserver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/testregex.dir/testregex.cpp.o -c /home/student/projects/snode.c/apps/testregex.cpp",
+  "file": "/home/student/projects/snode.c/apps/testregex.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/testpost.dir/testpost.cpp.o -c /home/student/projects/snode.c/apps/testpost.cpp",
+  "file": "/home/student/projects/snode.c/apps/testpost.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/warema-jalousien.dir/warema-jalousien.cpp.o -c /home/student/projects/snode.c/apps/warema-jalousien.cpp",
+  "file": "/home/student/projects/snode.c/apps/warema-jalousien.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/btlowlevelclient.dir/btlowlevelclient.cpp.o -c /home/student/projects/snode.c/apps/btlowlevelclient.cpp",
+  "file": "/home/student/projects/snode.c/apps/btlowlevelclient.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/btlowlevelserver.dir/btlowlevelserver.cpp.o -c /home/student/projects/snode.c/apps/btlowlevelserver.cpp",
+  "file": "/home/student/projects/snode.c/apps/btlowlevelserver.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/btlowleveltlsclient.dir/btlowleveltlsclient.cpp.o -c /home/student/projects/snode.c/apps/btlowleveltlsclient.cpp",
+  "file": "/home/student/projects/snode.c/apps/btlowleveltlsclient.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -I/home/student/projects/snode.c/build/web/http -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/l2lowlevelclient.dir/l2lowlevelclient.cpp.o -c /home/student/projects/snode.c/apps/l2lowlevelclient.cpp",
+  "file": "/home/student/projects/snode.c/apps/l2lowlevelclient.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/testpipe.dir/testpipe.cpp.o -c /home/student/projects/snode.c/apps/testpipe.cpp",
+  "file": "/home/student/projects/snode.c/apps/testpipe.cpp"
+},
+{
+  "directory": "/home/student/projects/snode.c/build/apps",
+  "command": "/usr/bin/c++  -I/home/student/projects/snode.c/build/apps -I/home/student/projects/snode.c -Werror -Wall -Wextra -Wno-psabi -Wconversion -Wpedantic -pedantic-errors -fexec-charset=UTF-8 -std=c++2a -o CMakeFiles/l2lowlevelserver.dir/l2lowlevelserver.cpp.o -c /home/student/projects/snode.c/apps/l2lowlevelserver.cpp",
+  "file": "/home/student/projects/snode.c/apps/l2lowlevelserver.cpp"
+}
+]
